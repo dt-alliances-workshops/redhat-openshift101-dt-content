@@ -31,7 +31,8 @@ If you are on-site with us, the instructor will walk you through and kick off ea
 
 
 ## We require every attendee to:
-* This workshop is done entirely through the browser, but you do need a free personal GitHub account. 
+* This workshop is done entirely through the browser, but you do need a free personal GitHub account.
+* Please use a browser that allows javascript to communicate with Dynatrace. Brave browser does not work, but Chrome and Firefox do.
 * Be able to run basic [Unix commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 
 ## Create a Github account

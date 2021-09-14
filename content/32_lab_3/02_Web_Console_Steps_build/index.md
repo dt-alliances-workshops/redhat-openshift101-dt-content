@@ -1,10 +1,10 @@
 ## Web Console Steps (Optional)
 1. Switch to administrator mode, if you're not already there
 
-    <img src="../../../assets/images/ocp-menu-administrator.png" width="500">
+    <img src="../../../assets/images/ocp-menu-administrator.png width="500">
 1. Click on "Projects" then the "Create Project" button and give it a name of metro-map
 
-    <img src="../../../assets/images/ocp-admin-create-project-metro-map.png">
+    <img src="../../../assets/images/ocp-admin-create-project-metro-map.png width="500">
 1. Switch to developer mode and select the project metro-map if it did not take you there automatically
 
     <img src="../../../assets/images/ocp-switch-developer.png" width="500">

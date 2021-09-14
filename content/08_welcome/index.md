@@ -1,6 +1,20 @@
 ## Welcome to OpenShift and Dynatrace!
 This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content.  If you are already familiar with the basics of OpenShift simply ensure you can login and create the project.
 
+# What is OpenShift?
+<img src="../../../assets/images/what-is-openshift.png">
+OpenShift provides a consistent application development and deployment platform, regardless of the underlying infrastructure, and provides operations teams with a scalable, secure, and enterprise-grade application platform and unified container and cloud management capabilities.
+
+# What is Dynatrace?
+<img src="../../../assets/images/what-is-dynatrace.png">
+
+Dynatrace is a holistic software intelligence platform that identifies, monitors and optimizes application performance, IT infrastructure and User experience for large organizations.​
+
+​Dynatrace brings together a single source of truth across Operations, Development, Security and Business Intelligence. ​
+
+Undergirded by key inputs that include what you expect; (Traces, Metrics and Logs) AND key intelligence derived in real time from ongoing learning about the topology, user behaviour, code, metadata and the network AND Levering inputs from CloudWatch and API integrations from opensource tools such as OpenTelemetry and Keptn.​
+
+The platform integrates to and interconnects with over 560 supported technologies.​
 # Key Terms
 We will be using the following terms throughout the workshop labs so here are some basic definitions you should be familiar with.  You'll learn more terms along the way, but these are the basics to get you started.
 
