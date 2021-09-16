@@ -1,4 +1,4 @@
-## Lab 5 Developing and Managing Your Application
+## Lab 4 Developing and Managing Your Application
 
 
 # Developing and managing an application in OpenShift
